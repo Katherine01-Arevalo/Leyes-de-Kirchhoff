@@ -1,2 +1,4 @@
 # Leyes-de-Kirchhoff
-#OBJETIVOS 
+OBJETIVOS 
+MARCO TEÓRICO
+DIAGRAMAS 
